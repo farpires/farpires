@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Fabio 
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55299077/112049828-e748da80-8b2e-11eb-866d-6fb23ea72864.png" />
 
+ 
 ### 💻:keyboard: Languages and Tools 
 
  - **My Favorite**:
@@ -32,28 +34,14 @@
    - **NoSQL:**
   [![MongoDB](https://img.shields.io/badge/-MondoDB-green?style=flat&logo=mongodb&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
-### Tools
 
-- **Software Development:**
-[![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")](https://github.com/Quananhle)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
-[![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle "Android Studio" )](https://github.com/Quananhle)
-- **SDLC**
-[![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) 
-[![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle)
-[![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
-- **Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Slack](https://img.shields.io/badge/-Slack-red?style=flat&logo=slack&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-- **Version Control:**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-
-### 📫 How to reach me:
-- Email : arpirez.fabio@gmail.com
-- Linkedln : [@myLinkedln](https://www.linkedin.com/in/fa-arp-4b990061/)
-- Phone : +543834912105 
-
+ Tools | 📫 How to reach me::
+-------------------------------------------------- | ------------------------------------------------
+Software Development: [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/Quananhle "NetBeans IDE")](https://github.com/Quananhle) [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle) [![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle "Android Studio" )](https://github.com/Quananhle)|    Email :[arpirez.fabio@gmail.com](arpirez.fabio@gmail.com)
+SDLC: [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)|    Linkedln : [@myLinkedln](https://www.linkedin.com/in/fa-arp-4b990061/)
+Software Engineering [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle) [![Slack](https://img.shields.io/badge/-Slack-red?style=flat&logo=slack&logoColor=white&link=https://github.com/Quananhle)](https://github.com/Quananhle)| Phone : [+543834912105 ](+543834912105)
+Version Control: [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)| <p align="center" height="20px" >***************</p>
+************************************************************************ | ************************************************************************
 
 <!--
 **farpires/farpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
